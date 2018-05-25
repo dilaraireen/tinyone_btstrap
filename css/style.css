@@ -1,0 +1,164 @@
+body {
+    font-family: 'PT Sans', sans-serif;
+    color: #010101;
+}
+
+.header {
+    background: #fcdb00;
+}
+
+.logo_text {
+    font-size: 30px;
+    font-weight: 700; 
+}
+.custom_nav {
+
+}
+.custom_nav li {
+
+}
+
+.custom_nav li a {
+    padding: 29px 50px !important;
+    color: #010101 !important;
+    font-weight: 700;
+}
+
+.custom_nav li a:hover {
+    color: white !important;
+    transition: .45s;
+}
+
+.banner {
+    background: #fcdb00;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+.banner_content {
+    margin-top: 50px;
+}
+.banner_content h1 {
+    color: #010101;
+    font-weight: 700;
+}
+
+.banner_content h6 {
+    color: #313841;
+    text-align: justify;
+}
+
+.banner_content p {
+    color: #82793e;
+    text-align: justify;
+}
+.custom_icon a {
+    font-size: 50px;
+    color: #010101 !important;
+    padding-right: 20px;
+}
+
+.custom_icon a:last-child {
+    padding-right: 0px !important;
+}
+
+.custom_icon a:hover {
+    color:white !important;
+    transition: 0.45s;
+}
+
+.features {
+    padding-top: 50px;
+    padding-bottom: 150px;
+}
+
+.icon {
+    font-size: 50px;
+}
+
+.feature_title {
+    margin-bottom: 100px;
+}
+
+.icon_text h1 {
+    font-size: 25px;
+    padding-top: 7px;
+    font-weight: 700;
+
+}
+
+.icon_text p {
+    font-size: 16px;
+    text-align: justify
+}
+
+.pl_0 {
+    padding-left: 0px !important;
+}
+
+.form_title {
+    padding-top: 50px;
+}
+
+.custom_button {
+    background-color: #fcdb00;
+    color: #010101;
+    font-weight: 700;
+    border: none;
+}
+
+.form_submit {
+    background-color: #010101;
+}
+
+.form_submit h1 {
+    color: #fcdb00;
+    font-weight: 700;
+}
+
+.form_submit p {
+    color: #898989;
+}
+.form_icons {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+.form_icons a {
+   color: #fcdb00;
+   font-size: 50px;
+   padding-right: 5px;
+   transition: .45s;
+}
+
+.form_icons a:hover {
+    color: white;
+ }
+
+.footer {
+    background-color: #010101;
+    color: #9f9f9f; 
+    font-size: 16px !important;
+}
+
+.address h1{
+    font-size: 16px !important;
+    text-transform: uppercase;
+}
+.address p{
+    font-size: 16px !important;
+}
+
+.footer_links ul {
+    list-style: none;
+}
+
+.footer_links ul li a {
+    text-decoration: none;
+    color: #9f9f9f;
+    font-size: 16px;
+    transition: 1s;
+}
+
+.footer_links ul li a:hover {
+    color: #fcdb00;
+}
